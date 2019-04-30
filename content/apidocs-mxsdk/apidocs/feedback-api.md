@@ -17,8 +17,10 @@ The actions in the feedback API can then be called in a microflow using the **Ca
 
 Each call also requires the parameters 'username' and 'password'. These are the public credentials you will find below; actual authentication of requests is done through API keys.
 
-* username: PlatformAPIUser
+* username: PlatformAPIUser 
 * password: PlatformAPIPassword
+
+These are the public credentials, you don't need to create your own credentials.
 
 {{% /alert %}}
 
